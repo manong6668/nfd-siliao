@@ -1,4 +1,4 @@
-交流群 [NFD](https://t.me/tiktok_TikTok_Tiktok_666)
+交流群 @tiktok_TikTok_Tiktok_666
 
 使用方法：
 
