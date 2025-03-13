@@ -1,7 +1,7 @@
-Bot Created Via [NFD](https://***/***)
+交流群 [NFD](https://t.me/tiktok_TikTok_Tiktok_666)
 
 使用方法：
 
-- 当其他用户给bot发消息，会被转发到bot创建者
-- 用户回复普通文字给转发的消息时，会回复到原消息发送者
-- 用户回复 `/block` ,  `/unblock` ,  `/checkblock` 等命令会执行相关指令， **不会** 回复到原消息发送者
+使用方法： 
+-直接将你要说的话发给机器人，我看到会回复！
+-无双向限制可直接私聊 @manong166 
